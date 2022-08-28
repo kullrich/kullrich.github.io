@@ -1,0 +1,21 @@
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: f7931e
+  secondary: 29abe2
+  secondary-dark: 333
+  muted: 777
+  one: cbc106
+  two: 27993c
+  three: 1c6838
+  four: 8ebcb5
+  five: 389ca7
+  six: 4d83ab
+  seven: cb7b26
+  eight: bf565d
+  nine: 9e163c
+
+# Font Families
+font:
+  primary: 'Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
+  secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
+  third: '"Lucida Console", Courier, monospace'

@@ -1,0 +1,7 @@
+{% include css/brands.min.css %}
+{% include css/fontawesome.min.css %}
+{% include css/solid.min.css %}
+{% include css/bootstrap.min.css %}
+{% include css/agency.css %}
+{% include css/icons.css %}
+{{ content }}

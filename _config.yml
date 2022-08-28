@@ -1,0 +1,30 @@
+url: https://kullrich.github.io
+baseurl:
+owner: Kristian Ullrich
+
+# Site settings
+title: kullrich.github.io
+email: ullrich@evolbio.mpgs.de
+description: "bioinformatics &amp; data scientists"
+github_username:  kullrich
+
+# Team names, titles and social links
+people:
+- name: Kristian Ullrich
+  pic: 1
+  position: Postdoctoral Scientists / Bioinformatics
+  social:
+    - title: github
+      url: https://github.com/kullrich
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: August Thienemann Str. 2
+  - line: 24306, Plön
+  - line: Germany
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
